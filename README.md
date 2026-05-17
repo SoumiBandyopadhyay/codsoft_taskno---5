@@ -53,7 +53,7 @@ Contact-Book/
 ## Step 1: Clone the Repository
 
 ```bash
-https://github.com/SoumiBandyopadhyay/codsoft_---5/tree/main
+https://github.com/SoumiBandyopadhyay/codsoft_taskno---5/tree/main
 ```
 
 ## Step 2: Open the Project Folder
